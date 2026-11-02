@@ -62,7 +62,7 @@ jardineria-putxet/
 
 ```bash
 # 1. Clone the repository
-git clone https://github.com/<your-username>/jardineria-putxet.git
+git clone https://github.com
 cd jardineria-putxet
 
 # 2. Install dependencies
